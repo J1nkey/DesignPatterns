@@ -1,0 +1,15 @@
+E:\Workspace\CS2022\Design Patterns Tranning\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net6.0\AbstractFactoryPattern.exe
+E:\Workspace\CS2022\Design Patterns Tranning\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net6.0\AbstractFactoryPattern.deps.json
+E:\Workspace\CS2022\Design Patterns Tranning\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net6.0\AbstractFactoryPattern.runtimeconfig.json
+E:\Workspace\CS2022\Design Patterns Tranning\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net6.0\AbstractFactoryPattern.dll
+E:\Workspace\CS2022\Design Patterns Tranning\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\net6.0\AbstractFactoryPattern.pdb
+E:\Workspace\CS2022\Design Patterns Tranning\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net6.0\AbstractFactoryPattern.csproj.AssemblyReference.cache
+E:\Workspace\CS2022\Design Patterns Tranning\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net6.0\AbstractFactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\CS2022\Design Patterns Tranning\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net6.0\AbstractFactoryPattern.AssemblyInfoInputs.cache
+E:\Workspace\CS2022\Design Patterns Tranning\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net6.0\AbstractFactoryPattern.AssemblyInfo.cs
+E:\Workspace\CS2022\Design Patterns Tranning\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net6.0\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+E:\Workspace\CS2022\Design Patterns Tranning\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net6.0\AbstractFactoryPattern.dll
+E:\Workspace\CS2022\Design Patterns Tranning\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net6.0\refint\AbstractFactoryPattern.dll
+E:\Workspace\CS2022\Design Patterns Tranning\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net6.0\AbstractFactoryPattern.pdb
+E:\Workspace\CS2022\Design Patterns Tranning\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net6.0\AbstractFactoryPattern.genruntimeconfig.cache
+E:\Workspace\CS2022\Design Patterns Tranning\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\net6.0\ref\AbstractFactoryPattern.dll
